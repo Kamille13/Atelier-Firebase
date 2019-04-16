@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Galaxian</string>
+    <string name="name">name</string>
+    <string name="score">score</string>
+</resources>
